@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Simple To Do</string>
+    <string name="spinner_newtask">Type in a New Task here</string>
+    <string name="spinner_removetask">Type in the position of the Task to be removed</string>
+    <string name="btnAdd">ADD</string>
+    <string name="btnDelete">DELETE</string>
+    <string name="btnClear">CLEAR</string>
+    <string name="invalidPosition">No Task at that position!</string>
+    <string name="successRemove">"Task has been removed at position "</string>
+    <string name="emptyList">Your To Do List is empty!!</string>
+    <string name="successClear">To Do List has been cleared!</string>
+    <string name="showTask">"This is Task "</string>
+    <string-array name="spinnerItems">
+        <item>Add a New Task</item>
+        <item>Remove a Task</item>
+    </string-array>
+</resources>
